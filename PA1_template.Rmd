@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research Project 1"
 author: "Dan Piltzer"
-output: html_document
+output: md_document
 ---
 ```{r loading packages and settings, echo = FALSE, results='hide', include=FALSE}
 library(dplyr)
